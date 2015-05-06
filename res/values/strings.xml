@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidGAERestAPI</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_list_employee">ListEmployee</string>
+    <string name="title_activity_add_employee">AddEmployee</string>
+    <string name="title_activity_update_employee">UpdateEmployee</string>
+    <string name="title_activity_delete_employee">DeleteEmployee</string>
+    <string name="title_activity_get_employee">GetEmployee</string>
+    <string name="title_activity_list_by_designation">ListByDesignation</string>
+
+</resources>
